@@ -48,3 +48,6 @@ This effectively "balances" the difference in total distance between nodes close
 
 The name of algorithm is "Swarm" because of one of its potential applications could be seen in a video-game where a character must keep track of a boss with high priority (the target node), all the while keeping tracking of neighboring enemies that might be swarming nearby.
 
+
+https://jayshah6699.github.io/Pathfinding-visualizer/
+
